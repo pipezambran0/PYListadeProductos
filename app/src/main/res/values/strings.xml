@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PY Lista de Productos</string>
+
+    <string-array name="mercancias">
+        <item>Mercancia Liquida</item>
+        <item>Mercancia Solida</item>
+        <item>Mercancia Agricola</item>
+        <item>N/A</item>
+    </string-array>
+
+</resources>
